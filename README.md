@@ -7,4 +7,4 @@ _Описание проекта NeuroStartUp_:
 
 _Логотип_:
 
-![](https://i.imgur.com/IZORWiI.png)11111
+![](https://i.imgur.com/IZORWiI.png)
